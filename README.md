@@ -28,6 +28,22 @@ Before buying a VPS in Iran you want to know how it really performs: speed at mi
 3. A short UDP test measures jitter and packet loss.
 4. Results are published as a card with one 7-day chart per test time.
 
+## Screenshots
+
+Sample outputs of the bot (illustrative values).
+
+**BGP card** — origin AS, prefix, registry data and observed AS connectivity for any IP:
+
+![BGP card](images/bgp-card.png)
+
+**Speed test card** — download, upload and ping, with one 7-day chart per test time; peak hours (20:00, 23:00) are highlighted in red:
+
+![Speed test card](images/speed-card.png)
+
+**Weekly report** — ranking, bandwidth at peak hours and network status of the last 7 days:
+
+![Weekly report](images/weekly-report.png)
+
 ## Use it
 
 1. Open [@inmapp](https://t.me/inmapp) and press **Start**.
@@ -73,6 +89,22 @@ Want to sponsor the bot, or have your hosting added to the reports? Message **[@
 ۲. دانلود با ۸ جریان موازی و ۳۰ ثانیه اندازه‌گیری می‌شود؛ آپلود با حالت معکوس.
 ۳. یک تست کوتاه UDP جیتر و پکت‌لاس را می‌سنجد.
 ۴. نتیجه به شکل کارتی با یک نمودار هفت‌روزه برای هر ساعت تست منتشر می‌شود.
+
+## تصاویر
+
+نمونه‌ای از خروجی ربات (عددها نمونه هستند).
+
+**کارت BGP** — AS مبدأ، پیشوند، اطلاعات رجیستری و اتصال AS‌ها برای هر IP:
+
+![کارت BGP](images/bgp-card.png)
+
+**کارت تست سرعت** — دانلود، آپلود و پینگ با یک نمودار هفت‌روزه برای هر ساعت تست؛ ساعات پیک (۲۰ و ۲۳) با رنگ قرمز مشخص می‌شوند:
+
+![کارت تست سرعت](images/speed-card.png)
+
+**گزارش هفتگی** — رتبه‌بندی، پهنای باند در ساعات پیک و وضعیت شبکهٔ ۷ روز اخیر:
+
+![گزارش هفتگی](images/weekly-report.png)
 
 ## استفاده
 
