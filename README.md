@@ -34,7 +34,7 @@ Sample outputs of the bot (illustrative values).
 
 **BGP card** — origin AS, prefix, registry data and observed AS connectivity for any IP:
 
-![BGP card](images/bgp-card.png)
+![BGP card](images/bgp-card-flags.png)
 
 **Speed test card** — download, upload and ping, with one 7-day chart per test time; peak hours (20:00, 23:00) are highlighted in red:
 
@@ -96,7 +96,7 @@ Want to sponsor the bot, or have your hosting added to the reports? Message **[@
 
 **کارت BGP** — AS مبدأ، پیشوند، اطلاعات رجیستری و اتصال AS‌ها برای هر IP:
 
-![کارت BGP](images/bgp-card.png)
+![کارت BGP](images/bgp-card-flags.png)
 
 **کارت تست سرعت** — دانلود، آپلود و پینگ با یک نمودار هفت‌روزه برای هر ساعت تست؛ ساعات پیک (۲۰ و ۲۳) با رنگ قرمز مشخص می‌شوند:
 
